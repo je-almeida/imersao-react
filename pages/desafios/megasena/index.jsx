@@ -3,7 +3,7 @@ import Numero from '../../../components/Numero'
 import Title from '../../../components/Title'
 import styles from './styles.module.css' 
 
-export default function index(params) {
+export default function Index(params) {
 
     // const [numbers, getNumbers] = useState(0)
     const [input, setInput] = useState(0)

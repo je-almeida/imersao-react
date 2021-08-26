@@ -1,6 +1,6 @@
 import { useState } from "react"
 
-export default function mouse() {
+export default function Mouse() {
 
     const [x, changeX] = useState(0)
     const [y, changeY] = useState(0)
