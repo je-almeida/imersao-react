@@ -1,4 +1,4 @@
-export default function jsx() {
+export default function Jsx() {
 
     const array = [
         <li>X1</li>,
